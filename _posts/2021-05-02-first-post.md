@@ -1,6 +1,6 @@
 ---
 title: "My First Post!"
-date: 2021-05-02 19:41:28 -0400
+date: 
 categories: jekyll update
 ---
 
